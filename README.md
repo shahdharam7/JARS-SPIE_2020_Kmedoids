@@ -11,6 +11,6 @@ Dharambhai Shah and Tanish Zaveri "Convex geometry and K-medoids based noise-rob
 Download all the above files in zip. Extract it. And run the "demo_kmedoid.m" file in MATLAB. 
 
 # Authors:
-- Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com
+- Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com (For any clarification)
 - Tanish Zaveri, Nirma University ---> ztanish@nirmauni.ac.in
   
